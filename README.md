@@ -1,3 +1,8 @@
+# Why i have forked this? #
+
+**SteamGrid** is an app that i use and the owner of it can't compile it fast enough, so this fork is the app without modifications, just to compile the app fast as soon he updates the app
+
+
 # What is it? #
 
 **SteamGrid** is a standalone, fire-and-forget program to enhance Steam's grid view and Big Picture. It preloads the banner images for all your games (even non-Steam ones) and applies overlays depending on your categories.
